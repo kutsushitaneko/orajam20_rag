@@ -1,0 +1,14 @@
+langchain
+langchain-openai
+langchain-chroma
+langchain-community
+python-dotenv
+pdfminer.six
+chromadb
+ipywidgets
+Jinja2
+ragas
+datasets
+matplotlib
+seaborn
+numpy

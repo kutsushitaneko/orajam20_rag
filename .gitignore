@@ -1,0 +1,8 @@
+.venv/
+memo/
+data/
+log/
+tmp/
+chroma_db/
+.env
+*.code-workspace
